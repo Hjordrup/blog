@@ -8,10 +8,10 @@
 </p>
 
 
-## TO install
-Run npm install 
-Run composer install 
-and add a database in the .env file 
+## To install
+Run npm install <br> 
+Run composer install<br> 
+and add a database in the .env file<br> 
 
 
 ## About Laravel
